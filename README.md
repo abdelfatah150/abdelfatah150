@@ -21,7 +21,7 @@ I enjoy designing scalable systems, solving real-world problems, and continuousl
 - 👨🏻‍💻 Most of my work is focused on backend development and APIs  
 - 💬 Ask me about C#, .NET, APIs, or SQL  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abdelfatah-samir-%F0%9F%87%B5%F0%9F%87%B8-a53b7b261/)  
-- 📝 Check out my [Resume](#)  
+- 📝 Check out my [Resume](https://drive.google.com/file/d/1zpDOTBLc6Im1erMPhIo8C1AHtZWhjNjH/view?usp=drive_link)  
 
 ---
 
