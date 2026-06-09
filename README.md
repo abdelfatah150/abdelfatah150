@@ -28,7 +28,7 @@ I enjoy designing scalable systems, solving real-world problems, and continuousl
 ### 🔨 Tech Stack:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,postgres,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,mysql,docker" />
 </p>
 
 <br/>
